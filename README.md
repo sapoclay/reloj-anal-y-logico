@@ -1,5 +1,7 @@
 # Reloj Anal y Lógico en Java
 
+![Reloj_Anal_Y_Logico](https://github.com/user-attachments/assets/639d7443-296d-4e7d-933e-736b75f66032)
+
 Este pequeño proyecto implementa un reloj que combina una visualización analógica y digital, desarrollado en Java utilizando Swing para la interfaz gráfica.
 
 ## Características
