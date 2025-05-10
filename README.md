@@ -6,15 +6,15 @@ Este pequeño proyecto implementa un reloj que combina una visualización analó
 
 ## Características
 
-### Reloj Analógico
-- Diseño moderno con efectos 3D y sombras
+### Reloj analógico
+- Diseño con efectos 3D y sombras
 - Manecillas para horas (gris), minutos (gris) y segundos (rojo)
 - Marcadores de minutos y números de hora
 - Punto central con efecto tridimensional
 - Actualización en tiempo real
 - Efectos de antialiasing para una visualización suave
 
-### Reloj Digital
+### Reloj digital
 - Muestra la hora en formato 24 horas (HH:mm:ss)
 - Fuente Segoe UI moderna y clara
 - Color azul distintivo
@@ -25,27 +25,27 @@ Este pequeño proyecto implementa un reloj que combina una visualización analó
 - Incluye día de la semana, día del mes, mes y año
 - Formato: "Día de la semana, DD de Mes de YYYY"
 
-## Detalles Técnicos
+## Detalles técnicos
 
-### Componentes Principales
+### Componentes principales
 - **Clase Principal**: `Reloj.java` (extiende JPanel)
 - **Interfaz Gráfica**: Java Swing
 - **Actualización**: Timer que refresca cada segundo
 - **Resolución**: 400x500 píxeles
 
-### Características de Diseño
-- **Paleta de Colores**
-  - Fondo: Gris claro moderno (RGB: 245, 245, 245)
+### Características de diseño
+- **Paleta de colores**
+  - Fondo: Gris claro (RGB: 245, 245, 245)
   - Manecillas: Gris oscuro y rojo
-  - Reloj Digital: Azul moderno
+  - Reloj Digital: Azulete
   - Separador: Gris claro
   - Fecha: Gris oscuro
 
-- **Efectos Visuales**
+- **Efectos visuales**
   - Antialiasing en todos los elementos
   - Sombras en las manecillas
   - Efectos 3D en el punto central
-  - Separador elegante entre elementos
+  - Separador entre elementos
 
 ## Requisitos
 - Java Runtime Environment (JRE) 8 o superior
